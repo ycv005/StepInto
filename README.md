@@ -10,3 +10,4 @@ ShutDown Windows and jump into terminal with Linux
     here you will learn how to use git more in more details
     [click here](http://gitreal.codeschool.com/?utm_source=github&utm_medium=codeschool_option&utm_campaign=trygit) to go, make sure you have completed the no 1.
 
+stay tuned for further updates...
